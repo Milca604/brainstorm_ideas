@@ -20,3 +20,8 @@
 
 基本上 可以有幾個built in
 之後 user 可以自定義幾個(或是無限多個）list
+
+
+
+Functions may be implemented:
+Allows network linkage. “A” posts what he should do and let the people using the same program to vote. “B” another user can go, presented with a question “A” posted and make the choices for them (of course these are long term choices, or choices that takes longer to mature)
